@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    background-color: aquamarine;
+}
+p.one {
+    background-color: cadetblue;
+}
+h2 {
+    background-color: cornflowerblue;
+}
+p.two {
+    background-color: darkseagreen;
+}
+li.one {
+    color: gold;
+}
+li.two {
+    color: darksalmon;
+}
+li.three {
+    color: burlywood;
+}
+li.four {
+    color: chocolate;
+}
+li.five {
+    color: darkgoldenrod;
+}
